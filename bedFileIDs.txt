@@ -1,0 +1,13 @@
+BEDFILE
+CUT
+NUT
+SRAT
+SUT
+XUT
+convergent
+divergent
+mRNA
+plus1nuc_CDS_CPS
+snoRNA
+tRNA
+tandem
